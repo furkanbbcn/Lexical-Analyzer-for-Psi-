@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589571748 source:c:\users\gazoz\onedrive\masaüstü\pl\plproject1\main.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
